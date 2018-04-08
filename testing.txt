@@ -1,0 +1,13 @@
+Polecane Twittery:
+@AST_News (US tester org), 
+@ministryoftest (UK tester org), 
+@charret (testing), 
+Michael Bolton (Ur Exploratory Tester)
+Noah Sussman (DevOps or Production Assurance) 
+
+Plan Testów - wzór:
+http://www.fit.vutbr.cz/study/courses/ITS/public/ieee829.html
+
+Media społecznościowe:
+https://www.reddit.com/r/softwaretesting
+
