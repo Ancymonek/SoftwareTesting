@@ -1,4 +1,4 @@
-Polecane Twittery:
+﻿Polecane konta Twitter:
 @AST_News (US tester org), 
 @ministryoftest (UK tester org), 
 @charret (testing), 
@@ -10,4 +10,13 @@ http://www.fit.vutbr.cz/study/courses/ITS/public/ieee829.html
 
 Media społecznościowe:
 https://www.reddit.com/r/softwaretesting
+https://www.wykop.pl/tag/testowanieoprogramowania/
+
+Ściągawki:
+https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt
+
+Bazy wiedzy:
+https://pwicherski.gitbooks.io/testowanieoprogramowania/spis-tresci-faq.html
+
+
 
