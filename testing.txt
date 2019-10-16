@@ -1,28 +1,36 @@
-﻿Polecane konta Twitter:
+﻿ Polecane konta Twitter:
 @AST_News (US tester org), 
 @ministryoftest (UK tester org), 
 @charret (testing), 
 Michael Bolton (Ur Exploratory Tester)
 Noah Sussman (DevOps or Production Assurance) 
 
-Plan Testów - wzór:
+﻿ Plan Testów - wzór:
 http://www.fit.vutbr.cz/study/courses/ITS/public/ieee829.html
 
-Media społecznościowe:
+﻿ Media społecznościowe:
 https://www.reddit.com/r/softwaretesting
 https://www.wykop.pl/tag/testowanieoprogramowania/
 
-Ściągawki:
+﻿ Ściągawki:
 https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt
 
-Bazy wiedzy:
+﻿ Bazy wiedzy:
 https://pwicherski.gitbooks.io/testowanieoprogramowania/spis-tresci-faq.html
 
-PDFy:
+﻿ PDFy:
 http://blogomotion.com/Victo2012/PL/Wiedza/co_tester_wiedziec_powinien.pdf
 
-Testowanie live:
+﻿ Testowanie live:
 https://www.youtube.com/watch?v=DJBfnDPVPBQ
 
+﻿ Automatyzacja testów C# (Nunit + C#)
+https://www.guru99.com/selenium-csharp-tutorial.html
+https://webdriver-herald.herokuapp.com/
 
-
+﻿ Testy bezpieczeństwa:
+OWASP ASVS 4.0. - https://github.com/OWASP/ASVS/tree/master/4.0
+Dotnet - https://github.com/guardrailsio/awesome-dotnet-security
+https://github.com/danielmiessler/SecLists
+FuzzList - https://github.com/google/oss-fuzz
+WackoPicko - Strona do testowania bezpieczeństwa - https://github.com/adamdoupe/WackoPicko
